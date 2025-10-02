@@ -1,1 +1,1 @@
-# Ejercicio de crear una calculadora básica.
+# Este ejercicio trata de crear una calculadora básica.
